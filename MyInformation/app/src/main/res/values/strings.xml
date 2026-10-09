@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">My Information</string>
+  <string name="student_name">Воробьев Семен</string>
+  <string name="student_group">Студент группы ПИ-251</string>
+  <string name="phone">89059126787</string>
+  <string name="social">\@inkoromi21</string>
+  <string name="email">sema.vorobev20078@gmail.com</string>
+  <string name="profile_image">Иконка Android</string>
+</resources>

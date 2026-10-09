@@ -1,0 +1,6 @@
+<resources>
+  <color name="text_quadrant">#FFEADDFF</color>
+  <color name="image_quadrant">#FFD0BCFF</color>
+  <color name="row_quadrant">#FFB69DF8</color>
+  <color name="column_quadrant">#FFF6EDFF</color>
+</resources>
